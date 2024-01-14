@@ -1,0 +1,15 @@
+{
+  "name": "localweather",
+  "version": "1.0.0",
+  "description": "Local weather forecast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "api"
+  ],
+  "author": "scriptGenie",
+  "license": "ISC"
+}
