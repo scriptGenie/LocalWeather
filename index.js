@@ -7,7 +7,6 @@ function fetchData() {
     })
 };
 
-
 function displayDataWeather(weather) {
     // console.log('promise resolved')
     console.log(weather);
